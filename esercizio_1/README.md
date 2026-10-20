@@ -1,4 +1,4 @@
-###VERIFICA DI INFORMATICA - HTML (PIZZERIA)###
+##VERIFICA DI INFORMATICA - HTML (PIZZERIA)##
 
 Benvenuti nella Freddy Fivebear's Pizzeria!!!
 
